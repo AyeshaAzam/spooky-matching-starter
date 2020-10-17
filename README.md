@@ -4,7 +4,7 @@ Introductory HTML/CSS project building a spooky memory matching game.
 
 <img src="https://media.giphy.com/media/XZghcRkL6uEfNeF9iQ/giphy.gif" height=300 />
 
-The finsihed repo can be found at `https://github.com/maeeast/spooky-matching-starter`
+The finsihed repo can be found at `https://github.com/maeeast/spooky-matching`
 
 Play the game at https://maeeast.github.io/spooky-matching
 
